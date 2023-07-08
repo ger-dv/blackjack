@@ -1,2 +1,2 @@
-# blackjack
+# BlackJack
 BlackJack Game School Project
